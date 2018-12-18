@@ -1,22 +1,23 @@
-# Project Name
-
-**Author**: Your Name(s) Goes Here
-**Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
+# Data Analysis
+**Author**: Scott Currie
+**Version**: 0.1.0
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 401 class. (i.e. What's your problem domain?) -->
+Exercises using Jupyter notebooks, NumPy, and Pandas to perform data analysis on some real word datasets.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+    1. Clone this repository
+    2. run `pipenv install` to install dependencies
+    3. run `jupyter notebook` to start the Jupyter server
+    4. Connect to the Jupyter session in your browser
+    5. Open one of the included .ipynb files.
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. This is also an area which you can include any visuals; flow charts, example usage gifs, screen captures, etc.-->
+The project requires Python >= 3.6, NumPy, Pandas, and Jupyter. Start a Jupyter session, then open one of the notebook files: vg-stats.ipynb or bike-stats.ipyng.
 
 ## API
-<!-- Provide detailed instructions for your applications usage. This should include any methods or endpoints available to the user/client/developer. Each section should be formatted to provide clear syntax for usage, example calls including input data requirements and options, and example responses or return values. -->
+N/A
 
 ## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-01-01-2001 4:59pm - Added functionality to add and delete some things.
--->
+12-17-2018 18:00:00 - Completed most of the supplied challenges for the Video Game Sales dataset
