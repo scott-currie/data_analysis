@@ -21,3 +21,4 @@ N/A
 ## Change Log
 
 12-17-2018 18:00:00 - Completed most of the supplied challenges for the Video Game Sales dataset
+12-18-2018 18:00:00 - Created Regressions notebook that loads test and training data from Amazon stock history
